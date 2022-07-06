@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 102-complex_delete.py
-# Yovo Koffi Vianney
+# Stephanie Khasoha
 
 
 def complex_delete(a_dictionary, value):

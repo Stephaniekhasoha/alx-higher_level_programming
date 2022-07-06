@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 7-update_dictionary.py
-# Yovo Koffi Vianney
+# Stephanie Khasoha
 
 
 def update_dictionary(a_dictionary, key, value):
